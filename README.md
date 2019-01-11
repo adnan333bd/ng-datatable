@@ -96,3 +96,5 @@ Displays buttons for changing current page and number of displayed rows using bo
  - selector: `mfBootstrapPaginator`
  - inputs
    - `rowsOnPageSet: number` - specify values for buttons to change number of diplayed rows
+
+in RML
